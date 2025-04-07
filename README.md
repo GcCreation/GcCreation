@@ -1,16 +1,33 @@
-## Hi there 👋
+# GcCreation: Best Digital Solution 🚀
 
-<!--
-**GcCreation/GcCreation** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Selamat datang di **GcCreation** – Kami adalah digital agency modern yang menyediakan **layanan pembuatan website** untuk kebutuhan personal, bisnis, hingga korporasi.
 
-Here are some ideas to get you started:
+## 🌐 Tentang Kami
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**GcCreation** (Global Code Creation) hadir untuk memberikan solusi digital terbaik melalui website yang elegan, responsif, dan powerful. Kami menggabungkan teknologi modern dan desain yang intuitif untuk menciptakan pengalaman web yang memukau.
+
+## 💡 Layanan Kami
+
+- Website Company Profile
+- E-Commerce / Toko Online
+- Landing Page
+- Custom Web App
+- UI/UX Design
+
+## 🛠️ Teknologi yang Kami Gunakan
+
+Kami menggunakan teknologi terbaik di industri untuk menjamin kualitas dan performa:
+
+- **Frontend:** React, Vue.js, Next.js
+- **Styling:** Tailwind CSS, Bootstrap
+- **Backend:** Laravel, JavaScript (Node)
+- **Database:** MySQL
+- **Design & Prototyping:** Figma
+
+## 📱 Temukan Kami di Sosial Media
+
+- TikTok: [@gccreation.official](https://www.tiktok.com/@gccreation.official)
+- Instagram: [@gccreation.official](https://www.instagram.com/gccreation.official/)
+- 
+
+> 🚀 *GcCreation: Transforming Ideas into Digital Reality*
